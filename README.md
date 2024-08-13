@@ -1,5 +1,5 @@
 # 🍃 Pedro Nhamirre
-![image](https://github.com/user-attachments/assets/d9c6911d-5201-4761-8aeb-ce449516ea8b)
+![image](github-header-image.png)
 
 **`Techie (Developer)`**
 
