@@ -1,32 +1,37 @@
 # 🧑‍💻🍵 Pedro Nhamirre
 
-### Hi there, it's Belmiro here👋, a passionate software developer on a journey to unlock the potential of code. With a love for innovation and a knack for problem-solving, I'm here to collaborate, create, and contribute to the exciting world of technology. Let's code together!
+**`Techie (Developer)`**
 
-- 🌱 I’m currently working with Java using Spring Boot Framework 
-- 👯 I’m looking to collaborate on java projects and spring boot projects
-- 💬 Feel free to ask me about Java, Servlets and Spring Framework
+### Hello! I’m Pedro Nhamirre, a passionate tech enthusiast and programming aficionado. My journey in technology has been fueled by a deep curiosity and a love for problem-solving. I’m excited to collaborate, create, and contribute to innovative projects in the tech world. Let’s code, build, and explore new horizons together!
 
+- ♨️ Currently, I’m immersed in Java development, leveraging the Spring Boot framework, and building dynamic user interfaces with React.
+- 💬 I’m eager to collaborate on Java, Spring Boot, and React projects, and I’m always open to new opportunities to innovate and create together.
 
 <div align="center">
-  <a href="https://github.com/BelmiroMungoi">
+  <a href="https://github.com/PedroNhamirre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNhamirre&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNhamirre&layout=compact&theme=dracula"/>
 </div>
-  
-  ## Skills :nerd_face:
+
+---
+### 🧰 Languages and Tools
   
   <div align="center" style="display: inline_block"><br>  
-  <img align="center" alt="Belm-Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img align="center" alt="Belm-Spring" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img align="center" alt="Belm-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Belm-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Belm-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Belm-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" alt="Spring"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="center" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="center" alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="center" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="center" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<!-- <img align="center" alt="C++" width="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
+<img align="center" alt="GitHub" width="30px" width="30px"" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="center" alt="Bash" width="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     
 </div>
   
