@@ -7,18 +7,6 @@
 
 - ♨️ Currently, I’m immersed in Java development, leveraging the Spring Boot framework, and building dynamic user interfaces with React.
 - 💬 I’m eager to collaborate on Java, Spring Boot, and React projects, and I’m always open to new opportunities to innovate and create together.
-
-<div align="center">
-  <a href="https://github.com/PedroNhamirre">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNhamirre&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNhamirre&layout=compact&theme=dracula"/>
-  <a/>
-</div>
-
---- 
-### 🧰 Languages and Tools
-
-
   
 <div align="center" style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; margin-top: 2rem;">
   
@@ -52,18 +40,24 @@
 
 </div>
 
----
-### 🏆 GitHub profile Trophy
+### 🏆 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/PedroNhamirre">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=PedroNhamirre&show_icons=true&theme=dracula"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNhamirre&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNhamirre&layout=compact&theme=dracula"/>
+  <a/>
 </div>
 
 <div align="center">
    <a href="https://github.com/PedroNhamirre">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroNhamirre&show_icons=true&theme=dracula"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/PedroNhamirre">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=PedroNhamirre&show_icons=true&theme=dracula"/>
   </a>
 </div>
 
