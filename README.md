@@ -9,7 +9,14 @@
 - 🌱 Currently, I’m immersed in Java development, leveraging the Spring Boot framework, and building dynamic user interfaces with React.
 - ⚒️ I’m eager to collaborate on Java, Spring Boot, and React projects, and I’m always open to new opportunities to innovate and create together.
 
-  
+<div align="center">
+  <a href="https://github.com/PedroNhamirre">
+  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNhamirre&show_icons=true&theme=dark"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNhamirre&layout=compact&langs_count=6&theme=catppuccin_latte"/>
+  <a/>
+</div>
+
+<br/>
     
 <div align="center" style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; margin-top: 2rem;">
 
@@ -43,13 +50,12 @@
 
 </div>
 <br/>
-<div align="center" style=" margin-top: 2rem;">
-  <a href="https://github.com/PedroNhamirre">
-  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNhamirre&show_icons=true&theme=dark"/> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNhamirre&layout=compact&langs_count=6&theme=radical"/>
-  <a/>
-</div>
 
+<div>
+  <a href="anuraghazra&repo=github-readme-stats" target="_blank" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+  </a>
+</div>
 
 
 <!--
