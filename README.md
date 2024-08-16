@@ -13,14 +13,15 @@
     
 <div align="center" style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; margin-top: 2rem;">
 
+  <img align="center" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="Tailwind CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Bootstrap" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
   <img align="center" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="PostgresSQL" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
@@ -36,7 +37,6 @@
     <img align="center" alt="Golang" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
     <img align="center" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img align="center" alt="Bash" width="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img align="center" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="center" alt="Angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     <img align="center" alt="C++" width="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
   -->
