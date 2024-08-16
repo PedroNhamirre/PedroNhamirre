@@ -51,14 +51,17 @@
 </div>
 <br/>
 
+
+
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" >
+  <a href="https://github.com/anuraghazra/github-readme-stats" >
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
   </a>
 </div>
 
-
 <!--
+
+
 <div align="center">
    <a href="https://github.com/PedroNhamirre">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroNhamirre&show_icons=true&theme=dark"/>
