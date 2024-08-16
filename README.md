@@ -2,7 +2,7 @@
 <!--
 ![image](github-header-image.png)
 -->
-**`Techie (A Web Developer in making)`**
+**`Techie (A Software Developer in making)`**
 
 ### Hello! I’m Pedro Nhamirre, a passionate tech enthusiast and programming aficionado. My journey in technology has been fueled by a deep curiosity and a love for problem-solving. I’m excited to collaborate, create, and contribute to innovative projects in the tech world. Let’s code, build, and explore new horizons together!
 
