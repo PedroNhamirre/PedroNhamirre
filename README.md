@@ -6,8 +6,8 @@
 
 ### Hello! I’m Pedro Nhamirre, a passionate tech enthusiast and programming aficionado. I’m excited to collaborate, create, and contribute to innovative projects. Let’s code, build, and explore together!
 
-- 🌱 Currently, I’m immersed in Java development, leveraging the Spring Boot framework, and building dynamic user interfaces with React.
-
+- 🌱 SpringBoot
+- 👀 React.js
 
 <!--
   <div align="center">
