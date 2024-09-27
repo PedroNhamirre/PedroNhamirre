@@ -4,13 +4,10 @@
 -->
 **`A Software Developer`**
 
-<!-- 
-  ### Hello! I’m Pedro Nhamirre, a passionate tech enthusiast and programming aficionado. My journey in technology has been fueled by a deep curiosity and a love for problem-solving. I’m excited to collaborate, create, and contribute to innovative projects in the tech world. Let’s code, build, and explore new horizons together!
+### Hello! I’m Pedro Nhamirre, a passionate tech enthusiast and programming aficionado. I’m excited to collaborate, create, and contribute to innovative projects. Let’s code, build, and explore together!
 
 - 🌱 Currently, I’m immersed in Java development, leveraging the Spring Boot framework, and building dynamic user interfaces with React.
-- ⚒️ I’m eager to collaborate on Java, Spring Boot, and React projects, and I’m always open to new opportunities to innovate and create together.
 
--->
 
 <!--
   <div align="center">
