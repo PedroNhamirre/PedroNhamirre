@@ -6,13 +6,9 @@
 
 ### Hello! I’m Pedro Nhamirre, a passionate tech enthusiast and programming aficionado. I’m excited to collaborate, create, and contribute to innovative projects. Let’s code, build, and explore together!
 
-<ul display:flex; >
-  <li>🌱 SpringBoot</li>
-  <li>👀 React.js</li>
-</ul>
-
-
-- 
+- 🌱 SpringBoot
+- 👀 React.js
+- 🐘 PostgresSQL
 
 <!--
   <div align="center">
