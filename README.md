@@ -1,6 +1,8 @@
 >[!TIP]
 > **Pedro Nhamirre — Learn. Code. Build.**
 
+[![Linkedin](https://img.shields.io/badge/-PORTFOLIO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.pedronhamirre.tech/)](https://www.pedronhamirre.tech/)
+
 ```js
 import Developer from "PedroNhamirre";
 
