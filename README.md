@@ -1,30 +1,48 @@
->[!TIP]
-> **Pedro Nhamirre — Learn. Code. Build.**
+> [!NOTE]
+> **Pedro Nhamirre** — Learn. Code. Build.
 
-<a href="https://www.pedronhamirre.tech/" target="_blank">
-  <img src="https://img.shields.io/badge/-PORTFOLIO-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
-</a>
+<div align="center">
 
 
-```js
-import Developer from "PedroNhamirre";
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedronhamirre)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.pedronhamirre.tech)
 
-class AboutMe extends Developer {
-  name = "Pedro Nhamirre";
-  focus = "Web and Mobile Development";
-  status = "Learning and building my path in tech";
-  location = "Mozambique";
-  contact = {
-    "LinkedIn": "https://www.linkedin.com/in/pedronhamirre"
-  };
-}
+</div>
 
-class Skills extends Developer {
-  languages = ["JavaScript", "Java", "Python", "PHP", "Kotlin", "HTML", "CSS"];
-  libraries = ["React"];
-  frameworks = ["Spring Boot", "Django", "Android", "Node.js", "Bootstrap", "Tailwind CSS"];
-  databases = ["PostgreSQL", "MySQL"];
-  tools = [
-    "Docker", "Maven", "Git", "REST APIs", "Swagger"
-  ];
-}
+```python
+# pedro_nhamirre.py
+from __future__ import annotations
+from dataclasses import dataclass
+from typing import List
+
+@dataclass
+class TechStack:
+    languages: List[str] = [
+        "Java", "Python", "JavaScript", "TypeScript", "Golang"
+    ]
+
+    frameworks: List[str] = [
+        "Spring Boot", "Django", "Next.js", "React",
+        "Node.js", "Express.js"
+    ]
+
+    databases: List[str] = ["PostgreSQL", "MySQL", "MongoDB", "Firebase"]
+
+    tools: List[str] = [
+        "Docker", "Git", "Linux",
+        "Swagger", "REST APIs"
+    ]
+
+@dataclass
+class Developer:
+    name: str = "Pedro Nhamirre"
+    location: str = "🇲🇿 Mozambique"
+    
+    linkedin: str = "https://www.linkedin.com/in/pedronhamirre"
+    website: str = "https://www.pedronhamirre.tech"
+    email: str = "pedro.nhamirre@outlook.com"
+    
+    skills: TechStack = TechStack() 
+
+me = Developer()
+```
