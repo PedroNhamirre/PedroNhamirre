@@ -40,7 +40,7 @@ class Developer:
     
     linkedin: str = "https://www.linkedin.com/in/pedronhamirre"
     website: str = "https://www.pedronhamirre.tech"
-    email: str = "pedro.nhamirre@outlook.com"
+    email: str = "pedrooliv62@gmail.com"
     
     skills: TechStack = TechStack() 
 
